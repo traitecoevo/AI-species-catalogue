@@ -1,6 +1,8 @@
 ---
 type: page
 layout: standard
+cover: replika/profile.png
+title: About
 ---
 
 ## About 

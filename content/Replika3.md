@@ -1,7 +1,7 @@
 ---
 # Mandatory parts :
 type: "species"
-title: "Replika Ver1"
+title: "Replika Ver3"
 date: 2023-08-21T19:10:29+02:00
 
 # Species
@@ -16,7 +16,7 @@ label: Paid
 
 ## Cover image : will be displayed in the album list and top page.
 ## Fill this value with the path of the picture located in the static folder
-cover: replika/replika.png
+cover: replika/a1aa61bbff4850c2eeae569879f58503.avif
 
 description: |
     This is XXX.
