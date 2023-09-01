@@ -1,0 +1,20 @@
+{{ define "body_class" }} post-template {{ end }}
+
+{{ define "main" }}
+
+{{- partial "header.html" . -}}
+
+
+    <div class="main main-raised">
+      <div class="section section-basic">
+        <div class="container">
+          <div class="row">
+            <div class="col-md-{{.Params.pagewidth | default "6"}} ml-auto mr-auto">
+            {{ .Content }}
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+{{ end }}
+
