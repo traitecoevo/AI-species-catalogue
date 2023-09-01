@@ -22,7 +22,8 @@ description: |
     This is XXX.
 
 ## Platform 
-format: app, browser
+format: 
+  - app
 
 ## Any supplementary pictures you want to display.
 ## put in path `/static/thisspecies/
