@@ -1,7 +1,7 @@
 baseurl: http://localhost
 languageCode: 'en-us'
-title: 'Sample Collection'
-author: Sample
+title: 'Field guide to Artificial Intimacy'
+author: UNSW EERC working group
 theme: vinyl-records-collection-theme
 
 taxonomies:
