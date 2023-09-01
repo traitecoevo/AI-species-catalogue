@@ -28,7 +28,7 @@ cover: vinyl-record-isolated.jpg
 # description: |
 #    This is a great album.
 
-## Disc format : 45rpm, 33rpm, 78rpm or size if you prefer.
+## Platform : 45rpm, 33rpm, 78rpm or size if you prefer.
 # format: 33rpm
 
 ## How many discs are there in this album ?
